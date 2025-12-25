@@ -1,8 +1,8 @@
-# SukiSU's KernelPatch patch
+# YukiSU's KernelPatch patch
 
 ** This is only a simple fork from bmax121's KernelPatch. **
 
-这是一个fork自bmax121的KernelPatch，经过剪裁后用于给SukiSU Ultra提供KPM支持
+这是一个fork自bmax121的KernelPatch，经过剪裁后用于给YukiSU提供KPM支持
 
 ## Thanks
 
